@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Anthurium - King of hearts",
+        "price": "$79.00",
+        "images": [
+            {
+                "url": "./plants card images 2/ card img 1 black.jpg",
+                "color": "#4a4c53"
+            },
+            {
+                "url": "./plants card images 2/ card img 1 white.jpg",
+                "color": "#b3a086"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bromeliad Vriesea",
+        "price": "$88.00",
+        "images": [
+            {
+                "url": "./plants card images 2/ card img 2 white.jpg",
+                "color": "#ece6d8"
+            },
+            {
+                "url": "./plants card images 2/ card img 2 blue.jpg",
+                "color": "#c1cac3"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Bromeliad Antonio Pink",
+        "price": "$69.00",
+        "images": [
+            {
+                "url": "./plants card images 2/ card img 3 white.jpg",
+                "color": "#ece8da"
+            },
+            {
+                "url": "./plants card images 2/ card img 3 blue.jpg",
+                "color": "#c1cac3"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Corkscrew Croton",
+        "price": "$70.00",
+        "images": [
+            {
+                "url": "./plants card images 2/ card img 4 blue.jpg",
+                "color": "#456865"
+            }
+            
+        ]
+    }
+]

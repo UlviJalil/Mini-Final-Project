@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Golden Petra",
+        "price": "$79.00",
+        "images": [
+            {
+                "url": "./plants images/plants gul 1 white.jpg",
+                "color": "#e8e5e0"
+            },
+            {
+                "url": "./plants images/plants gul 1 black.jpg",
+                "color": "#252525"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Peperomia Obtusifolia",
+        "price": "$66.00",
+        "images": [
+            {
+                "url": "./plants images/plants gul 2 white.jpg",
+                "color": "#ede8d5"
+            },
+            {
+                "url": "./plants images/plants gul 2 narinci.jpg",
+                "color": "#e18b68"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Pink Rubber Plant",
+        "price": "$139.00",
+        "images": [
+            {
+                "url": "./plants images/plants gul 3 white.jpg",
+                "color": "#f9fafc"
+            },
+            {
+                "url": "./plants images/plants gul 3 blue.jpg",
+                "color": "#b5c0c8"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Ficus Audrey",
+        "price": "$130.00",
+        "images": [
+            {
+                "url": "./plants images/plants gul 4 white.jpg",
+                "color": "#d0d0d0"
+            },
+            {
+                "url": "./plants images/plants gul 4 silver.jpg",
+                "color": "#808182"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Schefflera Tree",
+        "price": "$285.00",
+        "images": [
+            {
+                "url": "./plants images/plants gul 5 white.jpg",
+                "color": "#eff1f2"
+            },
+            {
+                "url": "./plants images/plants gul 5 black.jpg",
+                "color": "#251f20"
+            }
+        ]
+    }
+]

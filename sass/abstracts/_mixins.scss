@@ -1,0 +1,40 @@
+@mixin Flexible {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin Flexible2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin Flexible3 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 20px;
+}
+
+@mixin Flexible4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
+@mixin ButtonRadio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    overflow: hidden;
+}
